@@ -1,1 +1,1 @@
-# Run kode arduino terlebih dahulu, kemudian run masing-masing kode python dengan Final_Code.py di run pada urutan terakhir
+# Run kode arduino (Final_Code.ino) terlebih dahulu, kemudian run masing-masing kode python dengan Final_Code.py pada urutan terakhir
